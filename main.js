@@ -1,4 +1,6 @@
 let a = "learning";
 let b = "git";
 
-console.log(`${a} ${b}`);
+let c =  a + b;
+
+console.log(c);
